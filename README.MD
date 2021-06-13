@@ -7,6 +7,6 @@
 2. Type run <kbd>Enter</kbd>
 3. Enjoy
 ## Some screenshots
-![picture alt](http://via.placeholder.com/200x150 "Screeenshot 1")
-![picture alt](http://via.placeholder.com/200x150 "Screeenshot 2")
+![picture alt](https://github.com/jvjspy/minesweeper/blob/main/screenshot1.png "Screeenshot 1")
+![picture alt](https://github.com/jvjspy/minesweeper/blob/main/screenshot2.png "Screeenshot 2")
 
